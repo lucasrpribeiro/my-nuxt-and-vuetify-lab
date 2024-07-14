@@ -1,5 +1,5 @@
 <template>
-  <div class="d-flex items-center justify-center mt-4">
+  <BasePage>
     <v-card text="Hello Members!"></v-card>
-  </div>
+  </BasePage>
 </template>
